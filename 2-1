@@ -1,7 +1,5 @@
 function setup() {
   createCanvas(1330,770);
-}
-
 function draw() {
   background(0);
   //stumps for trees
