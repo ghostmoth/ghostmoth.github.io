@@ -6,6 +6,11 @@ function setup() {
 }
 
 function draw() {
+  if(state) {
+    background(255,255,255)
+  }else{
+    background(102,182,650)
+  }
   //clouds1
   fill(255,255,255)
   ellipse(cloudsX,120,40,40)
