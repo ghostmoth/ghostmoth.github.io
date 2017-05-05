@@ -1,13 +1,10 @@
-
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>Project 1</h1>
-
-<p>For this assignment I created a simple game where the user clicks to squash a fly. This was the easiest way to me to fulfill the projects needs by including something interactive. I didn't have any fun doing this though. I don't know if it was because there were several new things I had to confront like loading images and having complete control over every variable and object. I also talk about it in my paper, but I don't like how this project doesn't really have any art or any meaning. So I had an oddly rough time with it. I have ideas for other things so hopefully this is just a rough stone on the path to better things.
-[Demo Video] (https://www.youtube.com/watch?v=NuVb-J9X_3g)
-  .</p>
-
+<h1>Final Project </h1>
+<p> Here is the final project for interactive media. I apologize for how underwhelming it is. I truly spent hours on this, it was just a little over my head. I'll write about it in my paper. Everything I would put in this will go into my paper. This won't be able to be viewed without a server, since I wasn't able to see it without one. So it wont be seen through Github. Sorry
+[Demo Video] (https://www.youtube.com/watch?v=99e3KhVvb58)
+<p>
 </body>
 </html>
